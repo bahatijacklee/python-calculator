@@ -1,4 +1,4 @@
-# 🦀 Rust Calculator
+# 🦀 Rust calculator
 
 A simple calculator application written in Rust.  
 It supports basic arithmetic operations and runs as a command‑line tool.
