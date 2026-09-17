@@ -1,18 +1,18 @@
-# 🧮 Calculator App
+# 🦀 Rust Calculator
 
-A simple and lightweight calculator application built for quick arithmetic operations.  
-Supports addition, subtraction, multiplication, and division with an intuitive interface.
+A simple calculator application written in Rust.  
+It supports basic arithmetic operations and runs as a command‑line tool.
 
 ## 🚀 Features
-- Basic math operations (+, -, ×, ÷)
-- Clear and reset functionality
-- Responsive design for desktop and mobile
-- Easy-to-use interface
+- Addition, subtraction, multiplication, division
+- Input validation and error handling
+- Fast and lightweight (compiled with Rust)
+- Easy to extend with new operations
 
 ## 📦 Installation
-Clone the repository and run locally:
+Clone the repository and build the project:
 
 ```bash
-git clone https://github.com/your-username/calculator-app.git
-cd calculator-app
-
+git clone https://github.com/your-username/rust-calculator.git
+cd rust-calculator
+cargo build --release
